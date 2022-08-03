@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://subtlefuge.com/images/matrix-rain.gif" width="100"></a></p>
 
 <p align="center">
-  <a href="https://matrix.to/#/#root:subtlefuge.com"><img src="https://img.shields.io/matrix/video:subtlefuge.com?label=Matrix&logo=matrix" alt="Matrix Chat Server"></a>
+  <a href="https://matrix.to/#/#main:subtlefuge.com"><img src="https://img.shields.io/matrix/video:subtlefuge.com?label=Matrix&logo=matrix" alt="Matrix Chat Server"></a>
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>

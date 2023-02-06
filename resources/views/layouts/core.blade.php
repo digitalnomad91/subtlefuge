@@ -744,8 +744,7 @@
                                 href="https://gitea.subtlefuge.com">Self-Hosted Git GUI</a>
                         </p>
                         <p style="">
-                            <img width="18" height="18"
-                                src="https://cockpit.subtlefuge.com/cockpit/static/logo.png"
+                            <img width="18" height="18" src="/images/debian_icon.png"
                                 style="position: relative; top: 4px;"> Cockpit -&gt;&nbsp;<a
                                 href="https://cockpit.subtlefuge.com">Server Webmin GUI</a>
                         </p>

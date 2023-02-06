@@ -631,7 +631,8 @@
                                 href="https://sonarr.subtlefuge.com">TV Auto-Downloader</a></script></a>
                         </p>
                         <p>
-                            <img width="18" height="18" src="https://radarr.subtlefuge.com/favicon.ico"
+                            <img width="18" height="18"
+                                src="https://radarr.subtlefuge.com/Content/Images/Icons/apple-touch-icon.png?h=QMW7w5FhldXR090sP7kDlQ"
                                 style="position: relative; top: 4px;"> Radarr -&gt;&nbsp;<a
                                 href="https://radarr.subtlefuge.com/">Movies Auto-Downloader</a></script></a>
                         </p>
@@ -647,7 +648,7 @@
                 <section style="">
                     <article>
                         <h1 style="color: #1482A7">Messaging</h1>
-                        <p><img width="16" height="16" src="https://corbin.world/mirc-icon-19.png"> IRC
+                        <p><img width="16" height="16" src="https://corbin.sh/mirc-icon-19.png"> IRC
                             -&gt;&nbsp;<span id="email">irc.subtlefuge.com</span></p>
                         <p><img width="16" height="16"
                                 src="https://matrix.org/favicon-32x32.png?v=9c73e3e9f08bfca2a260df81aabb2fd4"> Matrix
@@ -658,9 +659,9 @@
                         </p>
 
                         <p style="">
-                            <img width="16" height="16" src="https://subtlefuge.com/irc/favicon.ico"
+                            <img width="16" height="16" src="https://irc.subtlefuge.com/favicon.ico"
                                 style="position: relative; top: 4px;"> IRC -&gt;&nbsp;<a
-                                href="https://subtlefuge.com/irc/" target="_blank">IRC Web Client</a></script></a>
+                                href="https://irc.subtlefuge.com/" target="_blank">IRC Web Client</a></script></a>
                         </p>
                     </article>
                 </section>
@@ -714,7 +715,7 @@
                                 href="https://invidious.subtlefuge.com">Federated YouTube Alternative</a>
                         </p>
                         <p>
-                            <img width="18" height="18" src="https://alltubedownload.net/img/favicon.png"
+                            <img width="18" height="18" src="https://alltube.subtlefuge.com/img/favicon.png"
                                 style="position: relative; top: 4px;"> AllTubeDownload -&gt;&nbsp;<a
                                 href="https://alltube.subtlefuge.com">Tube Video Downloader</a>
                         </p>

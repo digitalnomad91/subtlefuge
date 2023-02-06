@@ -730,7 +730,7 @@
                                 src="https://phppgadmin.subtlefuge.com/images/themes/default/Favicon.ico"> PHPPGAdmin
                             -&gt;&nbsp;<a href="https://phppgadmin.subtlefuge.com">Postgres SQL Webmin</a></p>
                         <p><img width="18" height="18" src="https://subtlefuge.com/phpmyadmin/favicon.ico">
-                            PHPMyAdmin -&gt;&nbsp;<a href="https://phppgadmin.subtlefuge.com">MySQL SQL Webmin</a></p>
+                            PHPMyAdmin -&gt;&nbsp;<a href="https://phpmyadmin.subtlefuge.com">MySQL SQL Webmin</a></p>
                         <p><img width="18" height="18"
                                 src="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAP9JREFUeNpiYBgFo+A/w34gpiZ8DzWzAYgNiHGAA5UdgA73g+2gcyhgg/0DGQoweB6IBQYyFCCOGOBQwBMd/xnW09ERDtgcoEBHB+zHFQrz6egIBUasocDAcJ9OxWAhE4YQI8MDILmATg7wZ8QRDfQKhQf4Cie6pAVGPA4AhQKo0BCgZRAw4ZSBpIWJNI6CD4wEKikBaFqgVSgcYMIrzcjwgcahcIGRiPYCLUPBkNhWUwP9akVcoQBpatG4MsLviAIqWj6f3Absfdq2igg7IIEKDVQKEzN5ofAenJCp1I8gJRTug5tfkGIdR1FDniMI+QZUjF8Amn5htOdHCAAEGACE6B0cS6mrEwAAAABJRU5ErkJggg=="
                                 style="position: relative; top: 2px;"> NetData -&gt;&nbsp;<a
